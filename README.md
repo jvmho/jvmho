@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I share my personal projects and experiments ou he
 * **Programming Languages**: C#, Go, Python, Shell (Bash/Zsh)
 * **OS**: Arch, btw
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=jvmho)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jvmho&layout=compact&hide_title=true&langs_count=4&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api/top-langs?username=jvmho&layout=compact&hide_title=true&langs_count=4&theme=github_dark_dimmed)
 
 ---
 *«Simple makes perfect.»*
