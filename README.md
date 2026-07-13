@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I share my personal projects and *experiments* ou 
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,docker,maven,gradle,fastapi,androidstudio)](https://skillicons.dev)
 
-### My lifestyle, skills and github stats
+### My lifestyle, skills and GitHub stats
 
 [![My Skills](https://skillicons.dev/icons?i=linux,arch,bash,blender)](https://skillicons.dev)
 
