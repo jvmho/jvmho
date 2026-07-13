@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I share my personal projects and *experiments* ou 
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jvmho&layout=compact&hide_title=true&langs_count=4&hide_values=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=jvmho&layout=compact&hide_title=true&langs_count=4&hide_values=true&theme=transparent)
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=jvmho)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=jvmho&count=3&header_style=compact_stats_only)
 
 ---
 *«Simple makes perfect.»*
