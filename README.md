@@ -18,9 +18,9 @@ Welcome to my GitHub profile! I share my personal projects and *experiments* ou 
   <tr>
     <td width="50%" align="center" valign="top">
       <img src="https://github-stats-extended.vercel.app/api/top-langs?username=jvmho&layout=compact&hide_title=true&langs_count=4&theme=github_dark_dimmed" alt="GitHub Stats" width="100%" />
-    </td>\
+    </td>
     <td width="50%" align="center" valign="top">
-      ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=jvmho)
+      <img src="https://lastfm-recently-played.vercel.app/api?user=jvmho"/>
     </td>
   </tr>
 </table>
