@@ -1,8 +1,8 @@
 # Hi there! I'm jvmho 👋
 
-Desktop&Mobile | System programming | Backend developer
+**Desktop&Mobile** | **System programming** | **Backend developer**
 
-Welcome to my GitHub profile! I share my personal projects and experiments ou here
+Welcome to my GitHub profile! I share my personal projects and *experiments* ou here
 
 ### My stack
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I share my personal projects and experiments ou he
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,docker,maven,gradle,fastapi,androidstudio)](https://skillicons.dev)
 
-### My lifestyle and skills
+### My lifestyle, skills and github stats
 
 [![My Skills](https://skillicons.dev/icons?i=linux,arch,bash,blender)](https://skillicons.dev)
 
