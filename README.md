@@ -14,16 +14,9 @@ Welcome to my GitHub profile! I share my personal projects and *experiments* ou 
 
 [![My Skills](https://skillicons.dev/icons?i=linux,arch,bash,blender)](https://skillicons.dev)
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=jvmho&layout=compact&hide_title=true&langs_count=4&theme=github_dark_dimmed" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://lastfm-recently-played.vercel.app/api?user=jvmho"/>
-    </td>
-  </tr>
-</table>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jvmho&layout=compact&hide_title=true&langs_count=4&hide_values=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=jvmho&layout=compact&hide_title=true&langs_count=4&hide_values=true&theme=transparent)
+
+[![My LastFM Recently played](https://lastfm-recently-played.vercel.app/api?user=jvmho])]([htttps://lastfm](https://www.last.fm/ru/user/jvmho))
 
 ---
 *«Simple makes perfect.»*
