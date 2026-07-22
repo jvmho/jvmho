@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I share my personal projects and *experiments* ou 
 
 [![My Skills](https://skillicons.dev/icons?i=linux,arch,bash,blender)](https://skillicons.dev)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jvmho&layout=compact&hide_title=true&langs_count=4&hide_values=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=jvmho&layout=compact&hide_title=true&langs_count=4&hide_values=true&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jvmho&layout=compact&hide_title=true&langs_count=5&hide_values=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=jvmho&layout=compact&hide_title=true&langs_count=4&hide_values=true&theme=transparent)
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=jvmho&count=3&header_style=compact_stats_only)
 
