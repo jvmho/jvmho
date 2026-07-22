@@ -2,7 +2,7 @@
 
 **Desktop&Mobile** | **System programming** | **Backend developer**
 
-Welcome to my GitHub profile! I share my personal projects and *experiments* ou here
+Welcome to my GitHub profile! I share my personal projects and *experiments* out here
 
 ### My stack
 
